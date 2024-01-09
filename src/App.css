@@ -8,9 +8,9 @@
 }
 .container{
   background-color: rgb(242, 252, 254);
-  width: 450px;
+  width: 420px;
   border-radius: 30px;
-  padding: 50px;
+  padding: 40px;
 }
 .header{
   text-align: center;
@@ -18,7 +18,7 @@
 }
 .header h1{
   color: rgb(103, 35, 167);
-  text-decoration: underline;
+  font-family: space grotesk;
 }
 .header p{
   color:crimson;
@@ -31,7 +31,7 @@
   align-items: center;
   flex-direction: column;
   background-color: pink;
-  height: 150px;
+  height: 120px;
   border-radius: 30px;
   box-shadow: 2px 2px 4px rgb(197, 131, 142) inset;
   margin: 20px;
